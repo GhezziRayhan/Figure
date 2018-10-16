@@ -6,10 +6,9 @@
 
 #pragma once
 
-/*! \ class triangle
+/*! \ Class triangle
 * \ Permet de calculer l'aire et le perimetre d'un triangle
-* \ Auteur Rayhan
-* \ Version 1
+* \ Retourne les cacules de l'air et du perimetre d'un triangle
 */
 
 class triangle

@@ -6,10 +6,9 @@
 
 #pragma once
 
-/*! \ class rectangle
-* \ classe qui permet de calculer le perimetre ou l'aire d'un rectangle
-* \ Auteur Rayhan
-* \ Version 1
+/*! \ Class rectangle
+* \ Classe qui permet de calculer le perimetre ou l'aire d'un rectangle
+* \ Retourne les calcules de l'air et du perimetre d'un rectangle
 */
 
 class rectangle

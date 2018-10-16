@@ -1,9 +1,21 @@
+/*! \ Fichier testfigure.cpp
+* \ Fichier main ! Il utilise les librairies.h.
+* \ Auteur Rayhan
+* \ Version 1
+*/
+
 #include "figure.h"
 #include "rectangle.h"
 #include "triangle.h"
 #include "disque.h"
 #include <iostream>
 using namespace std;
+
+/*! \ Fonction main
+* \ Ne possède pas de parametre
+* \ Possede plusieurs variable qui vont être utilisées pour les fonctions perimetre et triangle
+* \ Elle retourne les calcules pour tout les fichiers.cpp rectangle/disque/triangle mais avec une marge d'erreur selon le calcul à cause de l'arrondissement du à un/des int et le manque du modulo pour combler cela
+*/
 
 int main(){
 
